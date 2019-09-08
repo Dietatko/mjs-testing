@@ -1,0 +1,20 @@
+author: Andrej Burger <burgera@gmail.com>
+description: mJS engine script testing framework
+type: lib
+version: 0.1
+
+libs_version: ${mos.version}
+modules_version: ${mos.version}
+mongoose_os_version: ${mos.version}
+
+filesystem:
+  - fs
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/mjs
+
+tags:
+  - js
+  - testing
+
+manifest_version: 2017-09-29
