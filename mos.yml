@@ -12,6 +12,7 @@ filesystem:
 
 libs:
   - origin: https://github.com/mongoose-os-libs/mjs
+  - origin: https://github.com/Dietatko/mjs-array
 
 tags:
   - js
